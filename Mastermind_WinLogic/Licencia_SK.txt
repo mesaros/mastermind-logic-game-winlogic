@@ -1,0 +1,35 @@
+
+*********************************** LICENCIA *************************************
+
+ program:  Mastermind WinLogic
+    info:  logicka hra
+   prava:  Copyright (c) 2016
+   autor:  Robert Mesaros
+    http:  www.rmSOFT.sk
+  e-mail:  mesarosrobo@gmail.com
+
+----------------------------------------------------------------------------------
+
+1. Aplikacia Mastermind WinLogic je typu FREEWARE
+2. Vsetky prava na aplikaciu Mastermind WinLogic su vylucnym vlastnictvom autora
+3. Aplikacia Mastermind WinLogic nie je funkcne ani casovo obmedzena
+4. Aplikacia Mastermind WinLogic sa moze v nezmenenej podobe volne distribuovat
+5. Jednotlive subory aplikacie Mastermind WinLogic sa nesmu akymkolvek sposobom
+   modifikovat. Tento bod sa nevztahuje na subory jazykovej lokalizacie
+
+
+6. AUTOR NENESIE ZIADNU ZODPOVEDNOST ZA AKEKOLVEK PRIAME CI NEPRIAME SKODY
+   SPOSOBENE SPRAVNYM ALEBO NESPRAVNYM POUZIVANIM TEJTO APLIKACIE
+
+
+7. Pouzivanim aplikacie Mastermind WinLogic suhlasite s podmienkami tejto licencie
+
+----------------------------------------------------------------------------------
+
+
+Aktualnu verziu tejto hry si mozete stiahnut z web stranky:
+
+					                      www.rmSOFT.sk
+
+
+				                                        [ autor ]
