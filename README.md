@@ -1,5 +1,5 @@
-Mastermind - logic game
-=======================
+Mastermind WinLogic - logic game
+================================
 
 ### Description
 
@@ -10,7 +10,7 @@ Mastermind - logic game
 
 ### Screenshots
 
-**[Virtual Gallery][4]**
+**[Screenshots in Virtual Gallery][4]**
 
 <img src="https://raw.githubusercontent.com/mesaros/mastermind-logic-game-winlogic/master/screenshots/mastermind-logic-game-winlogic-01.png" width="324px" />
 
@@ -28,7 +28,7 @@ Mastermind - logic game
 - choice **searched cubes**: 2 - 25
 - **colored**, **gray** and **combined** cubes
 - cubes with numbers - **from zero**
-- **saved records** of individual games with complete illustration of solving - (Archive)
+- **saved records** of individual games with complete illustration of solving - *(Archive)*
 - **assign** game from **computer or second player**
 - cube can be in result area **once or more times**
 - **random position** of cubes

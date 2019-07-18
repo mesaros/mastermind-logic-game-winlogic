@@ -9,7 +9,7 @@ Vdaka.
  application:  Mastermind - WinLogic
 
         info:  logic game
-   copyright:  Copyright (c) 2016
+   copyright:  Copyright (c) 2019
       author:  Robert Mesaros
          web:  www.rmSOFT.sk
       e-mail:  mesarosrobo@gmail.com
