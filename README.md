@@ -53,7 +53,7 @@ Application is directly executable, do not install anything and do not write to 
 
 
 [1]: http://www.rmsoft.sk/en/portfolio/programming-work/applications/mastermind-logic-game-winlogic
-[2]: http://www.rmsoft.sk
+[2]: http://www.rmsoft.sk/en
 [3]: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=BB4D8Y28YZDH6 "Thanks for support"
 [4]: http://www.rmsoft.sk/virtual-gallery/start/index.php?key-vg=krmp&img-last=19&f-way=/mesaros/mastermind-logic-game-winlogic/master/vg/&f-mask=mastermind-winlogic-f&f-mask-ext=png&f-frame=2&i-mask=mastermind-winlogic-i&t-file=mastermind-winlogic.js&logo-subtitle-en=/m08/Mastermind%20WinLogic%20-%20logical%20game&photoindex=1&design=03&logo=1&startscreen=1011101&langua=en
 [5]: http://en.wikipedia.org/wiki/Mastermind_(board_game)
