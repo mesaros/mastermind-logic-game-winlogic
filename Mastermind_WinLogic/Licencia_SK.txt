@@ -3,10 +3,11 @@
 
  program:  Mastermind WinLogic
     info:  logicka hra
-   prava:  Copyright (c) 2019
+   prava:  Copyright (c) 2004-2024
    autor:  Robert Mesaros
-    http:  www.rmSOFT.sk
-  e-mail:  mesarosrobo@gmail.com
+     web:  https://www.rmSOFT.sk
+    link:  https://www.rmsoft.sk/sk/portfolio/programatorske-prace/aplikacie/mastermind-logicka-hra-winlogic
+  e-mail:  rmsoft@rmsoft.sk
 
 ----------------------------------------------------------------------------------
 

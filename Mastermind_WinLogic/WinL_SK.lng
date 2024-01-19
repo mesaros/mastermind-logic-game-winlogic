@@ -1,5 +1,5 @@
 ; Mastermind WinLogic
-; Version 2.0
+; Version 2.3
 ; Language file
 
 ; Language: Slovak
@@ -251,7 +251,9 @@
 <A124xx>	"Tento proces nenávratne vymae všetky rekordy! eláte si pokraèova?"
 <A115xx>	"Upozornenie!"
 <A125xx>	"eláte si WinLogic ukonèi?"
-<A20xxx>	"Blahoelám!/n/nTúto hru ste zvládli na %i. pokus."
+<A126xx>	"V hre 'Tréning' bude pri rovnakom poète kociek a pozícií zadaná obtianos 'Kocka viackrát'."
+<A127xx>	"V hre 'Chaos' bude pri rovnakom poète kociek a pozícií zadaná obtianos 'Kocka viackrát'."
+<A20xxx>	"Blahoelám!/n/nTúto hru ste zvládli na %i. pokus"
 <A21xxx>	"¼utujem!/n/nTúto hru ste nezvládli."
 <A22xxx>	"Upozornenie!/n/nSúbor 'WinLogic.ldt' má atribút 'Len na èítanie'!/nRekord nie je moné zapísa!"
 <A23xxx>	"Upozornenie!/n/nSúbor 'WinLogic.lar' má atribút 'Len na èítanie'!/nZáznam hry nie je moné zapísa!"
@@ -264,19 +266,19 @@
 <A2Axxx>	"Blahoelám!/n/nTúto hru ste zvládli."
 <A2Bxxx>	"Nastavenie aplikácie WinLogic bolo úspešne uloené."
 <A2Cxxx>	"Upozornenie!/n/nNastavenie aplikácie WinLogic nie je moné uloi!"
-<A2Dxxx>	"Upozornenie!/n/nSúbor 'WinL_SK.pdf' sa v aktuálnom adresári nenachádza!"
+<A2Dxxx>	"Upozornenie!/n/nSúbor 'Mastermind_struktura_SK.pdf' sa v aktuálnom adresári nenachádza!"
 <A2Exxx>	"Upozornenie!/n/nSúbor 'Regist.xls' sa v aktuálnom adresári nenachádza!"
 <A2Fxxx>	"Upozornenie!/n/nSúbor 'Regist_SK.txt' sa v aktuálnom adresári nenachádza!"
 <A2Gxxx>	"Upozornenie!/n/nHru nie je moné uloi!"
 <A2Hxxx>	"Upozornenie!/n/nHru nie je moné otvori!"
-<A2Ixxx>	"Upozornenie!/n/nSúbor 'Quick_SK.txt' sa v aktuálnom adresári nenachádza!"
+<A2Ixxx>	"Upozornenie!/n/nSúbor 'Quick_SK.pdf' sa v aktuálnom adresári nenachádza!"
 <A2Jxxx>	"Heslo je nekorektné!!!"
 
 ; Password
 <B0xxxx>	"Heslo"
-<B10xxx>	"Autorizaènı text"
-<B11xxx>	"( Tento autorizaènı text sa zobrazí"
-<B12xxx>	"len po úspešnom ukonèení hry! )"
+<B10xxx>	"Overovací kód (text)"
+<B11xxx>	"Tento overovací kód (text) sa zobrazí"
+<B12xxx>	"len po úspešnom ukonèení hry!"
 <B13xxx>	"Heslo"
 <B20xxx>	"Zadajte max. 30 znakov!"
 <B21xxx>	"Zadajte max. 20 znakov!"

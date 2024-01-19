@@ -1,5 +1,5 @@
 ; Mastermind WinLogic
-; Version 2.0
+; Version 2.3
 ; Language file
 
 ; Language: Czech
@@ -252,7 +252,9 @@
 <A124xx>	"Tento proces nenávratnì smaže všechny rekordy! Pøejete si pokraèovat?"
 <A115xx>	"Upozornìní!"
 <A125xx>	"Pøejete si WinLogic ukonèit?"
-<A20xxx>	"Gratuluji!/n/nTuhle hru jste zvládli na %i. pokus."
+<A126xx>	"Ve høe 'Trénink' bude pøi stejném poètu kostek a pozic zadána obtížnost 'Kostka vícekrát'."
+<A127xx>	"Ve høe 'Chaos' bude pøi stejném poètu kostek a pozic zadána obtížnost 'Kostka vícekrát'."
+<A20xxx>	"Gratuluji!/n/nTuhle hru jste zvládli na %i. pokus"
 <A21xxx>	"Lituji!/n/nTuhle hru jste nezvládli."
 <A22xxx>	"Upozornìní!/n/nSoubor 'WinLogic.ldt' má atribut 'Jen pro ètení'!/nRekord není možné zapsat!"
 <A23xxx>	"Upozornìní!/n/nSoubor 'WinLogic.lar' má atribut 'Jen pro ètení'!/nZáznam hry není možné zapsat!"
@@ -265,19 +267,19 @@
 <A2Axxx>	"Gratuluji!/n/nTuhle hru jste zvládli."
 <A2Bxxx>	"Nastavení aplikace WinLogic bylo úspìšnì uložené."
 <A2Cxxx>	"Upozornìní!/n/nNastavení aplikace WinLogic není možné uložit!"
-<A2Dxxx>	"Upozornìní!/n/nSoubor 'WinL_SK.pdf' se nenachází v koøenovém adresáøi!"
+<A2Dxxx>	"Upozornìní!/n/nSoubor 'Mastermind_struktura_SK.pdf' se nenachází v koøenovém adresáøi!"
 <A2Exxx>	"Upozornìní!/n/nSoubor 'Regist.xls' se nenachází v koøenovém adresáøi!"
 <A2Fxxx>	"Upozornìní!/n/nSoubor 'Regist_SK.txt' se nenachází v koøenovém adresáøi!"
 <A2Gxxx>	"Upozornìní!/n/nHru není možné uložit!"
 <A2Hxxx>	"Upozornìní!/n/nHru není možné otevøít!"
-<A2Ixxx>	"Upozornìní!/n/nSoubor 'Quick_SK.txt' se nenachází v koøenovém adresáøi!"
+<A2Ixxx>	"Upozornìní!/n/nSoubor 'Quick_SK.pdf' se nenachází v koøenovém adresáøi!"
 <A2Jxxx>	"Heslo je nekorektní!!!"
 
 ; Password
 <B0xxxx>	"Heslo"
-<B10xxx>	"Autorizaèní text"
-<B11xxx>	"( Tento autorizaèní text se zobrazí"
-<B12xxx>	"jenom po úspìšném ukonèení hry! )"
+<B10xxx>	"Overovací kód (text)"
+<B11xxx>	"Tento overovací kód (text) se zobrazí"
+<B12xxx>	"jenom po úspìšném ukonèení hry!"
 <B13xxx>	"Heslo"
 <B20xxx>	"Zadejte max. 30 znakù!"
 <B21xxx>	"Zadejte max. 20 znakù!"

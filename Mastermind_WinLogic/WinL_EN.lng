@@ -1,5 +1,5 @@
 ; Mastermind WinLogic
-; Version 2.0
+; Version 2.3
 ; Language file
 
 ; Language: English
@@ -251,7 +251,9 @@
 <A124xx>	"This will delete all records irreversibly! Do you want to continue?"
 <A115xx>	"Warning!"
 <A125xx>	"Do you want to end the WinLogic?"
-<A20xxx>	"Congratulation!/n/nYou have managed this game on %i. try."
+<A126xx>	"In game 'Training', with the same number of cubes and positions, the 'Multiple cube' difficulty will be entered."
+<A127xx>	"In game 'Chaos', with the same number of cubes and positions, the 'Multiple cube' difficulty will be entered."
+<A20xxx>	"Congratulation!/n/nYou have managed this game on %i. try"
 <A21xxx>	"I am sorry!/n/nYou have lost this game."
 <A22xxx>	"Warning!/n/nFile 'WinLogic.ldt' has attribute 'Read only'!/nGame record is not possible to save!"
 <A23xxx>	"Warning!/n/nFile 'WinLogic.lar' has attribute 'Read only'!/nGame is not possible to save!"
@@ -264,19 +266,19 @@
 <A2Axxx>	"Congratulation!/n/nYou have managed this game."
 <A2Bxxx>	"WinLogic application settings were successfully saved."
 <A2Cxxx>	"Warning!/n/nSetup of application is not possible to save!"
-<A2Dxxx>	"Warning!/n/nFile 'WinL_EN.pdf' is not found in actual directory!"
+<A2Dxxx>	"Warning!/n/nFile 'Mastermind_structure_EN.pdf' is not found in actual directory!"
 <A2Exxx>	"Warning!/n/nFile 'Regist.xls' is not found in actual directory!"
 <A2Fxxx>	"Warning!/n/nFile 'Regist_EN.txt' is not found in actual directory!"
 <A2Gxxx>	"Warning!/n/nGame is not possible to save!"
 <A2Hxxx>	"Warning!/n/nGame is not possible to open!"
-<A2Ixxx>	"Warning!/n/nFile 'Quick_EN.txt' is not found in actual directory!"
+<A2Ixxx>	"Warning!/n/nFile 'Quick_EN.pdf' is not found in actual directory!"
 <A2Jxxx>	"Incorrect password!!!"
 
 ; Password
 <B0xxxx>	"Password"
-<B10xxx>	"Authentication text"
-<B11xxx>	"( This authentication text show only"
-<B12xxx>	"after successfully managed game! )"
+<B10xxx>	"Verification code (text)"
+<B11xxx>	"This verification code (text) show only"
+<B12xxx>	"after successfully managed game!"
 <B13xxx>	"Password"
 <B20xxx>	"Set max. 30 letters!"
 <B21xxx>	"Set max. 20 letters!"

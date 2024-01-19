@@ -1,6 +1,6 @@
 /**
  * @package    Mastermind - WinLogic
- * @version    1.2
+ * @version    2.3
  * @info       logic game
  * @author     Robert Mesaros
  * @copyright  Copyright © 2016 Robert Mesaros, rmSOFT

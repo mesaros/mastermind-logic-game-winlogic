@@ -1,5 +1,5 @@
 ﻿Mastermind - WinLogic
--------------------
+---------------------
 
 Ak sa vam hra paci, mozete ju podporit akymkolvek prispevkom :)
 Vdaka.
@@ -9,10 +9,10 @@ Vdaka.
  application:  Mastermind - WinLogic
 
         info:  logic game
-   copyright:  Copyright (c) 2019
+   copyright:  Copyright (c) 2016
       author:  Robert Mesaros
          web:  www.rmSOFT.sk
-      e-mail:  mesarosrobo@gmail.com
+      e-mail:  rmsoft@rmsoft.sk
 
       donate:  https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=BB4D8Y28YZDH6
 

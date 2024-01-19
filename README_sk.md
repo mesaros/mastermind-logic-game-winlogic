@@ -1,11 +1,22 @@
 Mastermind WinLogic - logická hra
 =================================
 
+>### Mastermind
+> > **Hlavolam, ktorý obletel celý svet!**
+
 ### Popis
 
 **[Mastermind WinLogic][1] - logická hra** rôznej obtiažnosti na boj proti zlyhávaniu pamäti.
 
-> **Pre všetky vekové kategórie.**
+**Úlohou** hry je **vyskladať v správnom poradí** jednotlivé **kocky** tak, aby sa zhodovali s kockami, ukrytými vo výsledkovej oblasti.
+
+Pri tomto procese je možné **zaznamenávať čas a aktuálne skóre**, a tak dosiahnuť v konkrétnej hre **rekord**, ktorý je možné následne zaznamenať do **Archívu**.
+
+
+>### Skvelá hra na boj proti zlyhávaniu pamäti
+
+
+` Pre všetky vekové kategórie `
 
 
 ### Obrázky
@@ -24,12 +35,13 @@ Mastermind WinLogic - logická hra
 ### Vlastnosti
 
 - **3 rôzne typy** hry: **Klasika**, **Tréning** a **Chaos**
-- voľba počtu **hľadaných pozícií** od 2 do 8
-- voľba počtu **hľadaných kociek** od 2 do 25
+- voľba počtu **hľadaných pozícií** (2 - 8)
+- voľba počtu **hľadaných kociek** (2 - 25)
 - **farebné**, **sivé** a **kombinované** kocky
 - kocky s číslami je možné definovať **od nuly**
 - **uloženie rekordov** jednotlivých hier s kompletným vyobrazením postupu riešenia - *(Archív)*
 - **zadanie** hry **počítačom** alebo **druhým hráčom**
+- **korešpondenčná hra**
 - kocka sa môže vo výsledkovej oblasti vyskytovať **raz alebo viackrát**
 - **náhodné rozmiestnenie** kociek
 - aktivácia **správnej pozície** kocky

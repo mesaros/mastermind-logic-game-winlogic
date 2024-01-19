@@ -1,11 +1,22 @@
 Mastermind WinLogic - logic game
 ================================
 
+>### Mastermind
+> > **Puzzle that orbited the world!**
+
 ### Description
 
 **[Mastermind WinLogic][1] - logical game** with various difficulty levels that develops brightness and logical thinking.
 
-> **For all age categories.**
+**Task** of this game is **line up in right order** individual **cubes** that way to make correspondence with cubes hidden in result area.
+
+In this process is possible **to measure time and actual score** and make **record** in game, which is afterward saved to **archive**.
+
+
+>### Great game for fight against memory fails
+
+
+` For all age categories `
 
 
 ### Screenshots
@@ -24,12 +35,13 @@ Mastermind WinLogic - logic game
 ### Properties
 
 - **3 kind** of games: **Classic**, **Training** and **Chaos**
-- choice **searched positions**: 2 - 8
-- choice **searched cubes**: 2 - 25
+- choice **searched positions** (2 - 8)
+- choice **searched cubes** (2 - 25)
 - **colored**, **gray** and **combined** cubes
 - cubes with numbers - **from zero**
 - **saved records** of individual games with complete illustration of solving - *(Archive)*
 - **assign** game from **computer or second player**
+- **correspondence game**
 - cube can be in result area **once or more times**
 - **random position** of cubes
 - activation **right position** of cube
