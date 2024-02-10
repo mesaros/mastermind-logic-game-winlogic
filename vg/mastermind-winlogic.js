@@ -41,7 +41,7 @@ function TextVG_sk(Num)
 								break;
 		case 18		:	Text = '<b style="color:#d1d1d1">Chaos</b> v binárnom kóde <b style="color:#92bcd8">:)</b>';
 								break;
-		case 19		:	Text = 'Mastermind WinLogic v <b style="color:#d1d1d1">novej verzii 2.1</b>';
+		case 19		:	Text = 'Mastermind WinLogic v <b style="color:#d1d1d1">novej verzii</b>';
 								break;
 	}
 
@@ -102,7 +102,7 @@ function TextVG_en(Num)
 								break;
 		case 18		:	Text = '<b style="color:#d1d1d1">Chaos</b> in binary code <b style="color:#92bcd8">:)</b>';
 								break;
-		case 19		:	Text = 'The <b style="color:#d1d1d1">new version 2.1</b> of Mastermind WinLogic';
+		case 19		:	Text = 'The <b style="color:#d1d1d1">new version</b> of Mastermind WinLogic';
 								break;
 	}
 

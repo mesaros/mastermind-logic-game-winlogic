@@ -94,10 +94,10 @@
 ; Any menu//Short cuts
 <110xxx>	"Best Score in Archive//Ctrl+K"
 <112xxx>	"Activate Game//Enter"
-<113xxx>	"Archive//A"
-<115xxx>	"Delete Record//Del"
-<116xxx>	"Delete All Records//Ctrl+Del"
-<118xxx>	"Games Combination in Archive"
+<113xxx>	"View archive game//A"
+<115xxx>	"Delete Record on this Account//Del"
+<116xxx>	"Delete All Records on this Account//Ctrl+Del"
+<118xxx>	"Game Combinations in Archive (PDF)"
 <11Axxx>	"Synchronize..."
 
 ; Buttons//Hints
@@ -186,7 +186,7 @@
 <5240xx>	"Automatic save options"
 <5250xx>	"Warning - Exit of application"
 <5260xx>	"Marked game Chaos ... - C -"
-<5270xx>	"Synchronization of records at start application//Sharing of records with other users"
+<5270xx>	"Synchronization of records at start application//Sharing records with other players on this computer"
 <530xxx>	"Number"
 <531xxx>	"Difficulty of game"
 <532xxx>	"Record of game"
@@ -198,7 +198,7 @@
 
 ; Record
 <70xxxx>	"Save new record"
-<710xxx>	"In game number %i new record %i dots was achieved!"
+<710xxx>	"In archive game number %i new record %i dots was achieved!"
 <711xxx>	"Old record"
 <712xxx>	"Game number"
 <713xxx>	"Difficulty"
@@ -207,7 +207,7 @@
 <716xxx>	"Score"
 <717xxx>	"Name"
 <718xxx>	"New record"
-<719xxx>	"Synchronize new record with other users"
+<719xxx>	"Synchronize new record with other players on this computer"
 
 ; Demo
 <80xxxx>	"Unregistered version"
@@ -287,7 +287,7 @@
 <C0xxxx>	"Synchronize of records"
 <C10xxx>	"Synchronize of records with central"
 <C11xxx>	"Process"
-<C12xxx>	"This function sharing of all records"
-<C13xxx>	"with other users."
-<C14xxx>	"Sharing of records with archive"
-<C15xxx>	"only!"
+<C12xxx>	"This function sharing all records"
+<C13xxx>	"with other players on this computer."
+<C14xxx>	"Only archive game records"
+<C15xxx>	"will be shared!"

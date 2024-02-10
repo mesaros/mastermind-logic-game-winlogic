@@ -1,248 +1,263 @@
 
                        MASTERMIND WINLOGIC
                        ~~~~~~~~~~~~~~~~~~~
-             	Co je nove v poslednych verziach?
-             	~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+                 Co je nove v poslednych verziach?
+                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-	[!] Vyznamne
-	[+] Nove
-	[-] Oprava chyby
-	[*] Zmena
-
----------------------------------------------------------------------------
-Mastermind WinLogic 2.1		build 2.1.3.4		(13.05.2016)
----------------------------------------------------------------------------
-
-[!]	Optimalizovana obtiaznost v hre Trening a Chaos
-
-[*]	Optimalizacia zdrojoveho kodu
-
+    [!] Vyznamne
+    [+] Nove
+    [-] Oprava chyby
+    [*] Zmena
 
 ---------------------------------------------------------------------------
-Mastermind WinLogic 2.1		build 2.1.0.4		(29.01.2016)
+Mastermind WinLogic 2.3        build 2.3.1.6        (09.02.2024)
 ---------------------------------------------------------------------------
 
-[!]	Novy typ hry - Chaos
+[-]    Oprava zapisu noveho rekordu v synchronizacii s centralou
 
-[!]	Novy rozsah volby poctu kociek 2 - 25
+[-]    Oprava zapisu hry zadanej hracom
 
-[!]	Novy rozsah volby poctu pozicii 2 - 8
+[*]    Riesenie korespodencnej hry
 
-[+]	Moznost cislovania kociek od nuly
+[-]    Riesenie zapisu casu AM/PM
 
-[-]	Synchronizacia rekordov s centralou (Win 7/8/10)
-
-[*]	Optimalizacia zdrojoveho kodu
+[*]    Optimalizacia zdrojoveho kodu
 
 
 ---------------------------------------------------------------------------
-Mastermind WinLogic 2.0		build 2.0.3.2		(02.11.2015)
+Mastermind WinLogic 2.1        build 2.1.3.4        (13.05.2016)
 ---------------------------------------------------------------------------
 
-[+]	Donate (PayPal)
+[!]    Optimalizovana obtiaznost v hre Trening a Chaos
 
-[*]	Optimalizacia zdrojoveho kodu
-
-
----------------------------------------------------------------------------
-Mastermind WinLogic 1.7		build 1.7.8.2		(26.07.2014)
----------------------------------------------------------------------------
-
-[+]	Donate
-
-[*]	Optimalizacia zdrojoveho kodu
+[*]    Optimalizacia zdrojoveho kodu
 
 
 ---------------------------------------------------------------------------
-WinLogic 1.7			build 1.7.1.3		(15.02.2005)
+Mastermind WinLogic 2.1        build 2.1.0.4        (29.01.2016)
 ---------------------------------------------------------------------------
 
-[!]	Moznost synchronizacie rekordov jednotlivych uzivatelov s centralou
+[!]    Novy typ hry - Chaos
 
-[*]	Optimalizacia zdrojoveho kodu
+[!]    Novy rozsah volby poctu kociek 2 - 25
 
+[!]    Novy rozsah volby poctu pozicii 2 - 8
 
----------------------------------------------------------------------------
-WinLogic 1.7			build 1.7.1.2		(29.01.2005)
----------------------------------------------------------------------------
+[+]    Moznost cislovania kociek od nuly
 
-[!]	Zohladnenie uzivatelskych uctov bez akehokolvek zapisu
-	do registrov operacneho systemu
+[-]    Synchronizacia rekordov s centralou (Win 7/8/10)
 
-[!]	Zapis konfiguracnych a uzivatelsky definovanych suborov
-	do uzivatelskeho adresara:
-	napr.
-	C:\Documents and Settings\%USER%\Data aplikaci\rmSOFT\WinLogic.dat\
-
-[+]	Jednoducha instalacia pri rozbalovani SFX archivu (.exe subor)
-
-[+]	Vizualny ukazovatel oblubenej hry
-
-[*]	Optimalizacia zdrojoveho kodu
+[*]    Optimalizacia zdrojoveho kodu
 
 
 ---------------------------------------------------------------------------
-WinLogic 1.6			build 1.6.1.6		(07.12.2004)
+Mastermind WinLogic 2.0        build 2.0.3.2        (02.11.2015)
 ---------------------------------------------------------------------------
 
-[+]	V hlavnom menu spristupnena polozka zobrazenia Kombinacie vsetkych
-	dostupnych hier - subor PDF
+[+]    Donate (PayPal)
 
-[*]	Zmena ovladania oblubenych hier
-
-[*]	Optimalizacia zdrojoveho kodu
+[*]    Optimalizacia zdrojoveho kodu
 
 
 ---------------------------------------------------------------------------
-WinLogic 1.6			build 1.6.1.5		(29.11.2004)
+Mastermind WinLogic 1.7        build 1.7.8.2        (26.07.2014)
 ---------------------------------------------------------------------------
 
-[+]	Volba definovania upozornenia pri ukonceni aplikacie
+[+]    Donate
 
-[*]	Optimalizacia zdrojoveho kodu
-
-
----------------------------------------------------------------------------
-WinLogic 1.6			build 1.6.1.3		(21.10.2004)
----------------------------------------------------------------------------
-
-[-]	Odstranena chyba prepoctu skore pri pouziti usporneho rezimu PC
+[*]    Optimalizacia zdrojoveho kodu
 
 
 ---------------------------------------------------------------------------
-WinLogic 1.6			build 1.6.1.2		(14.10.2004)
+WinLogic 1.7            build 1.7.1.3        (15.02.2005)
 ---------------------------------------------------------------------------
 
-[!]	Freeware
+[!]    Moznost synchronizacie rekordov jednotlivych uzivatelov s centralou
 
-
----------------------------------------------------------------------------
-WinLogic 1.5			build 1.5.1.11		(22.09.2004)
----------------------------------------------------------------------------
-
-[!]	Moznost ulozenia hry na disk (v rezime KLASIKA/NOVA HRA - HRAC)
-	napr. na korespondencne ucely alebo pre turnajovu hru
-
-[!]	V hre zadanej druhym hracom je heslo doplnene autorizacnym textom,
-	ktory sa zobrazi len po uspesnom vyrieseni hry
-
-[!]	Moznost definovania 4 oblubenych hier
-
-[!]	Umozneny Rychly start definovania kociek
-
-[+]	Referencna prirucka (textovy subor) s popisom klavesovych skratiek
-
-[+]	Moznost obnovenia pociatocneho stavu riesenia hry v riadku
-
-[+]	Zobrazenie celkoveho casu spustenej aplikacie
-
-[+]	Obmedzenia neregistrovanej verzie: Hra nie je pristupna, ak
-	obtiaznost hry je vacsia ako 6, alebo pocet hadanych pozicii
-	je vacsi ako 5, alebo pocet hadanych kociek je vacsi ako 11
-
-[*]	Optimalizacia zdrojoveho kodu
+[*]    Optimalizacia zdrojoveho kodu
 
 
 ---------------------------------------------------------------------------
-WinLogic 1.4    					(31.05.2004)
+WinLogic 1.7            build 1.7.1.2        (29.01.2005)
 ---------------------------------------------------------------------------
 
-[!]	Rozsirenie rozsahu pozicii na 8 stlpcov
+[!]    Zohladnenie uzivatelskych uctov bez akehokolvek zapisu
+    do registrov operacneho systemu
 
-[!]	Rozsirenie poctu kociek na 25
+[!]    Zapis konfiguracnych a uzivatelsky definovanych suborov
+    do uzivatelskeho adresara:
+    napr.
+    C:\Documents and Settings\%USER%\Data aplikaci\rmSOFT\WinLogic.dat\
 
-[!]	Pri hre Trening - moznost blokovania vsetkych istotne nepouzitych
-	kociek - Btn (Beton)
+[+]    Jednoducha instalacia pri rozbalovani SFX archivu (.exe subor)
 
-[!]	Rychle opustenie aplikacie - klavesa ESC alebo kliknutie lavym
-	tlacitkom mysky do oblasti hodnotenia
+[+]    Vizualny ukazovatel oblubenej hry
 
-[!]	Pri hre Trening - moznost oznacenia spracovanych riadkov
-
-[+]	Minimalizovanie aplikacie na listu - klavesa F12 alebo kliknutie
-	lavym tlacitkom mysky do oblasti loga hry
-
-[+]	Moznost nahodneho generovania hry (1 az 192)
-
-[+]	Moznost ulozenia hry do suboru obrazoveho formatu (ako obrazok)
-
-[+]	Umoznena tlac informacii (Help-u)
-
-[+]	V stavovom riadku spristupnena kompletna informacia
-	o danom type hry
-
-[+]	Novy typ hry - Trening, uvolneny aj pri hre zadanej druhym hracom
-
-[+]	Pri hre Trening - uvolnenie spustenia casomiery
-
-[*]	Prepracovane moznosti nastavenia aplikacie
-
-[*]	Optimalizacia zdrojoveho kodu
+[*]    Optimalizacia zdrojoveho kodu
 
 
 ---------------------------------------------------------------------------
-WinLogic 1.3    					(01.03.2004)
+WinLogic 1.6            build 1.6.1.6        (07.12.2004)
 ---------------------------------------------------------------------------
 
-[+]	Prechod z licencie Freeware na Shareware s registracnym
-	poplatkom 50,-Sk na podporu dalsieho vyvoja programovych
-	aplikacii
+[+]    V hlavnom menu spristupnena polozka zobrazenia Kombinacie vsetkych
+    dostupnych hier - subor PDF
 
-[+]	Obmedzenia neregistrovanej verzie: Hra nie je pristupna, ak
-	obtiaznost hry je vacsia ako 6, alebo pocet hadanych pozicii
-	je vacsi ako 5
+[*]    Zmena ovladania oblubenych hier
 
-[+]	Umoznena tlac celeho grafickeho prostredia aplikacie
-
-[+]	Spristupnenie pomocnych dokumentov priamo z programu
-
-[!]	Automaticke ulozenie priebehu rekordnej hry. Priebehy rekordnych
-	hier su pristupne pod polozkou Archiv
-
-[!]	Novy typ hry - Trening
-
-[!]	Jazykova lokalizacia: Cestina, Anglictina
-
-[!]	Moznost definovania hesla pri zadani hry druhym hracom
-
-[*]	Vylucenie moznosti definovania uzivatelskeho (vlastneho) obrazoveho
-	materialu
-
-[*]	Prepracovane moznosti nastavenia aplikacie
-
-[*]	Prehladnejsie blokovanie kociek
-
-[*]	Optimalizacia zdrojoveho kodu
-
-[-]	Oprava definovania najtazsej hry - GOLD. V tejto hre nie je umoznene
-	nastavit farebne kocky
-
-[-]	Oprava posunu kocky pravym tlacitkom mysky
-
-[-]	Oprava blokovania kocky v pracovnej oblasti
+[*]    Optimalizacia zdrojoveho kodu
 
 
 ---------------------------------------------------------------------------
-WinLogic 1.2    					(05.11.2003)
+WinLogic 1.6            build 1.6.1.5        (29.11.2004)
 ---------------------------------------------------------------------------
 
-[+]	V danej hre sa automaticky zobrazi ukazovatel prekrocenia
-	rekordneho limitu - "Rekord neprekonany!"
+[+]    Volba definovania upozornenia pri ukonceni aplikacie
 
-[*]	Automaticke zacentrovanie aplikacie
+[*]    Optimalizacia zdrojoveho kodu
 
 
 ---------------------------------------------------------------------------
-WinLogic 1.01						(10.09.2003)
+WinLogic 1.6            build 1.6.1.3        (21.10.2004)
 ---------------------------------------------------------------------------
 
-[-]	Opravena chyba zobrazovania aplikacie, ktora sa prejavovala
-	v standardne nastavenom zobrazeni operacneho systemu Windows XP
+[-]    Odstranena chyba prepoctu skore pri pouziti usporneho rezimu PC
+
+
+---------------------------------------------------------------------------
+WinLogic 1.6            build 1.6.1.2        (14.10.2004)
+---------------------------------------------------------------------------
+
+[!]    Freeware
+
+
+---------------------------------------------------------------------------
+WinLogic 1.5            build 1.5.1.11        (22.09.2004)
+---------------------------------------------------------------------------
+
+[!]    Moznost ulozenia hry na disk (v rezime KLASIKA/NOVA HRA - HRAC)
+    napr. na korespondencne ucely alebo pre turnajovu hru
+
+[!]    V hre zadanej druhym hracom je heslo doplnene autorizacnym textom,
+    ktory sa zobrazi len po uspesnom vyrieseni hry
+
+[!]    Moznost definovania 4 oblubenych hier
+
+[!]    Umozneny Rychly start definovania kociek
+
+[+]    Referencna prirucka (textovy subor) s popisom klavesovych skratiek
+
+[+]    Moznost obnovenia pociatocneho stavu riesenia hry v riadku
+
+[+]    Zobrazenie celkoveho casu spustenej aplikacie
+
+[+]    Obmedzenia neregistrovanej verzie: Hra nie je pristupna, ak
+    obtiaznost hry je vacsia ako 6, alebo pocet hadanych pozicii
+    je vacsi ako 5, alebo pocet hadanych kociek je vacsi ako 11
+
+[*]    Optimalizacia zdrojoveho kodu
+
+
+---------------------------------------------------------------------------
+WinLogic 1.4                        (31.05.2004)
+---------------------------------------------------------------------------
+
+[!]    Rozsirenie rozsahu pozicii na 8 stlpcov
+
+[!]    Rozsirenie poctu kociek na 25
+
+[!]    Pri hre Trening - moznost blokovania vsetkych istotne nepouzitych
+    kociek - Btn (Beton)
+
+[!]    Rychle opustenie aplikacie - klavesa ESC alebo kliknutie lavym
+    tlacitkom mysky do oblasti hodnotenia
+
+[!]    Pri hre Trening - moznost oznacenia spracovanych riadkov
+
+[+]    Minimalizovanie aplikacie na listu - klavesa F12 alebo kliknutie
+    lavym tlacitkom mysky do oblasti loga hry
+
+[+]    Moznost nahodneho generovania hry (1 az 192)
+
+[+]    Moznost ulozenia hry do suboru obrazoveho formatu (ako obrazok)
+
+[+]    Umoznena tlac informacii (Help-u)
+
+[+]    V stavovom riadku spristupnena kompletna informacia
+    o danom type hry
+
+[+]    Novy typ hry - Trening, uvolneny aj pri hre zadanej druhym hracom
+
+[+]    Pri hre Trening - uvolnenie spustenia casomiery
+
+[*]    Prepracovane moznosti nastavenia aplikacie
+
+[*]    Optimalizacia zdrojoveho kodu
+
+
+---------------------------------------------------------------------------
+WinLogic 1.3                        (01.03.2004)
+---------------------------------------------------------------------------
+
+[+]    Prechod z licencie Freeware na Shareware s registracnym
+    poplatkom 50,-Sk na podporu dalsieho vyvoja programovych
+    aplikacii
+
+[+]    Obmedzenia neregistrovanej verzie: Hra nie je pristupna, ak
+    obtiaznost hry je vacsia ako 6, alebo pocet hadanych pozicii
+    je vacsi ako 5
+
+[+]    Umoznena tlac celeho grafickeho prostredia aplikacie
+
+[+]    Spristupnenie pomocnych dokumentov priamo z programu
+
+[!]    Automaticke ulozenie priebehu rekordnej hry. Priebehy rekordnych
+    hier su pristupne pod polozkou Archiv
+
+[!]    Novy typ hry - Trening
+
+[!]    Jazykova lokalizacia: Cestina, Anglictina
+
+[!]    Moznost definovania hesla pri zadani hry druhym hracom
+
+[*]    Vylucenie moznosti definovania uzivatelskeho (vlastneho) obrazoveho
+    materialu
+
+[*]    Prepracovane moznosti nastavenia aplikacie
+
+[*]    Prehladnejsie blokovanie kociek
+
+[*]    Optimalizacia zdrojoveho kodu
+
+[-]    Oprava definovania najtazsej hry - GOLD. V tejto hre nie je umoznene
+    nastavit farebne kocky
+
+[-]    Oprava posunu kocky pravym tlacitkom mysky
+
+[-]    Oprava blokovania kocky v pracovnej oblasti
+
+
+---------------------------------------------------------------------------
+WinLogic 1.2                        (05.11.2003)
+---------------------------------------------------------------------------
+
+[+]    V danej hre sa automaticky zobrazi ukazovatel prekrocenia
+    rekordneho limitu - "Rekord neprekonany!"
+
+[*]    Automaticke zacentrovanie aplikacie
+
+
+---------------------------------------------------------------------------
+WinLogic 1.01                        (10.09.2003)
+---------------------------------------------------------------------------
+
+[-]    Opravena chyba zobrazovania aplikacie, ktora sa prejavovala
+    v standardne nastavenom zobrazeni operacneho systemu Windows XP
 
 
 
 
 Prijemny oddych a zabavu zela
 
-				                                  [ autor ]
+                                                  [ autor ]
 

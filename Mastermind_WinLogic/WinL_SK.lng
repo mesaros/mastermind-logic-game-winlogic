@@ -94,10 +94,10 @@
 ; Any menu//Short cuts
 <110xxx>	"Najlepšie skóre v archíve//Ctrl+K"
 <112xxx>	"Aktivova hru//Enter"
-<113xxx>	"Archív//A"
-<115xxx>	"Vymaza rekord//Del"
-<116xxx>	"Vymaza všetky rekordy//Ctrl+Del"
-<118xxx>	"Kombinácie hier v archíve"
+<113xxx>	"Zobrazi archívnu hru//A"
+<115xxx>	"Zmaza rekord na tomto úète//Del"
+<116xxx>	"Zmaza všetky rekordy na tomto úète//Ctrl+Del"
+<118xxx>	"Kombinácie hier v archíve (PDF)"
 <11Axxx>	"Synchronizova..."
 
 ; Buttons//Hints
@@ -186,7 +186,7 @@
 <5240xx>	"Automatické uloenie nastavenia"
 <5250xx>	"Upozornenie - ukonèenie aplikácie"
 <5260xx>	"Znaèenie hry Chaos ... - C -"
-<5270xx>	"Synchronizácia rekordov pri štarte aplikácie//Zdie¾anie rekordov s ostatnımi uívate¾mi"
+<5270xx>	"Synchronizácia rekordov pri štarte aplikácie//Zdie¾anie rekordov s ostatnımi hráèmi na tomto poèítaèi"
 <530xxx>	"Èíslo hry"
 <531xxx>	"Obtianos hry"
 <532xxx>	"Rekord hry"
@@ -198,7 +198,7 @@
 
 ; Record
 <70xxxx>	"Zápis nového rekordu"
-<710xxx>	"V hre èíslo %i bol dosiahnutı novı rekord %i bodov!"
+<710xxx>	"V archívnej hre èíslo %i bol dosiahnutı novı rekord %i bodov!"
 <711xxx>	"Starı rekord"
 <712xxx>	"Èíslo hry"
 <713xxx>	"Obtianos"
@@ -207,7 +207,7 @@
 <716xxx>	"Skóre"
 <717xxx>	"Meno"
 <718xxx>	"Novı rekord"
-<719xxx>	"Synchronizova novı rekord s ostatnımi uívate¾mi"
+<719xxx>	"Synchronizova novı rekord s ostatnımi hráèmi na tomto poèítaèi"
 
 ; Demo
 <80xxxx>	"Neregistrovaná verzia"
@@ -288,6 +288,6 @@
 <C10xxx>	"Synchronizácia rekordov s centrálou"
 <C11xxx>	"Priebeh"
 <C12xxx>	"Táto funkcia umoní zdie¾a rekordy hier"
-<C13xxx>	"s ostatnımi uívate¾mi."
+<C13xxx>	"s ostatnımi hráèmi na tomto poèítaèi."
 <C14xxx>	"Zdie¾ané budú len rekordy"
-<C15xxx>	"s archívom!"
+<C15xxx>	"archívnych hier!"

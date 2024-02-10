@@ -1,0 +1,92 @@
+﻿Mastermind WinLogic
+-------------------
+
+Tato logicka hra sice neoplyva skvelou grafikou, ale po funkcnej stranke
+predci mnohe konkurencne ekvivalenty.
+
+
+V hre je mozne vyskladat max. 8 stlpcov a max. 25 kockami.
+Najtazsie nastavenie hry - GOLD, (poradove cislo v archive 192
+s obtiaznostou 13), ma az
+
+               152 587 890 625
+
+moznych riadkov (variacii).
+
+Ak by pocitac vygeneroval na obrazovke 1000 riadkov za sekundu, potreboval
+by na zobrazenie vsetkych riadkov takmer 5 rokov.
+
+Uzivatel ma vsak k dispozicii len 15 riadkov, aby nasiel spravne riesenie
+a prelomil skryty kod.
+
+
+***************************************************************************
+***********    152 miliard 587 milionov 890 tisic 625 riadkov   ***********
+***********                                                     ***********
+***********                   a napriek tomu,                   ***********
+***********             logicke myslenie zvitazi ;)             ***********
+***************************************************************************
+
+Zoznam suborov:
+
+- Mastermind_WinLogic.exe       - spustitelny subor - program
+- WinLogic.lcf                  - nastavenie programu
+- WinLogic.ldt                  - dosiahnute rekordy v archive
+- WinLogic.lar                  - zaznamy archivnych hier
+- WinL_CZ.lng                   - lokalizacia (cesky)
+- WinL_EN.lng                   - lokalizacia (anglicky)
+- WinL_SK.lng                   - lokalizacia (slovensky)
+- Mastermind_manual_EN.pdf      - informacny subor - manual (anglicky)
+- Mastermind_manual_SK.pdf      - informacny subor - manual (slovensky)
+- Mastermind_structure_EN.pdf   - kombinacie hier v archive (anglicky)
+- Mastermind_struktura_SK.pdf   - kombinacie hier v archive (slovensky)
+- Quick_EN.pdf                  - referencna prirucka (anglicky)
+- Quick_SK.pdf                  - referencna prirucka (slovensky)
+- Donate.txt                    - mozete prispiet na podporu tohto programu
+- Historia.txt                  - historia aplikacie
+- Info_XXXX.txt                 - tento subor (XXXX-build verzia programu)
+- Licencia_SK.txt               - popis licencie (slovensky)
+- License_EN.txt                - popis licencie (anglicky)
+
+- Data                          - adresar s ulozenymi hrami
+
+
+------------------------------------------------------------------------
+Adresar s uzivatelskymi datami konkretneho hraca (ulozene hry, nastavenie
+programu, obrazky, oblubene hry, archiv) sa nachadza v tychto cestach:
+
+- pre Windows Vista/7/10
+C:\Users\%USER%\AppData\Roaming\rmSOFT\WinLogic.dat\
+
+- pre Windows 2000/XP
+C:\Documents and Settings\%USER%\Data aplikaci\rmSOFT\WinLogic.dat\
+
+- pre Windows 9x/Me
+C:\Windows\Application Data\rmSOFT\WinLogic.dat\
+
+
+------------------------------------------------------------------------
+Adresar so spolocnymi datami vsetkych hracov [Synchronizacia] (ulozene hry,
+nastavenie programu, obrazky, oblubene hry, archiv) sa nachadza v tychto cestach:
+
+- pre Windows Vista/7/10
+C:\Users\Public\Documents\rmSOFT\WinLogic.dat\
+
+
+
+------------------------------------------------------------------------
+Ak je potrebne vynulovat spolocne data hier z centraly, postaci vymazat subory
+
+    - WinLogic.ldt      - dosiahnute rekordy v archive
+    - WinLogic.lar      - zaznamy archivnych hier
+
+z horeuvedeneho "public" adresara.
+
+
+
+------------------------------------------------------------------------
+Aktualnu verziu tejto hry si mozete stiahnut na internetovej adrese:
+
+https://www.rmSOFT.sk
+
+          [ autor ]
